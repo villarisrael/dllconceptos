@@ -1,0 +1,6 @@
+C:\Users\Server\source\repos\conceptos\bin\Debug\conceptos.dll
+C:\Users\Server\source\repos\conceptos\bin\Debug\conceptos.pdb
+C:\Users\Server\source\repos\conceptos\obj\Debug\conceptos.csproj.AssemblyReference.cache
+C:\Users\Server\source\repos\conceptos\obj\Debug\conceptos.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\conceptos\obj\Debug\conceptos.dll
+C:\Users\Server\source\repos\conceptos\obj\Debug\conceptos.pdb
